@@ -12,7 +12,7 @@
 
     <header style="text-align: center;">
         <img src="1111.jfif" width="200" height="200" style="border-radius: 50%;"/>
-        <h1>RUMAH SAKIT WARAS SAYUNG</h1>
+        <h1>RUMAH SAKIT SENANG HATI</h1>
     </header>
     <hr />
     <article style="text-align: center;">
