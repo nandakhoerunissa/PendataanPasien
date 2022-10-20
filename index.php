@@ -1,36 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pendaftaran Pasien Rumah Sakit</title>
 </head>
-<style>
-<body>{
-background-image:url('buah-segar.jpg');
-color:white;
-font-family:Arial:
-}
-.action-btn {
-    display:inline-block;
-    text-decoration:none;
-    color:white:
-    font-wight:700:
-    background:linear-gradient(90deg,#a701c8,#55e7fc);
-    padding:0.5em 2em;
-    border-radius:60px;
-    margin:1em 0;
-    transition:0,3s;
-}
-</style>
-</head>
 <body>
-    <center>
-    <h1>Rumah Sakit</h1>
-    <h2>Sehat Waras Sayung</h2>
-        <h4> <a href ="profil.php">Profil</a></h4>
-        <h4> <a href ="pasien.php">Lihat Pasien</a></h4>
-        <h4> <a href ="tambah.php">Tambah Pasien</a></h4>
-        <h4> <a href ="fasilitas.php">Fasilitas</a></h4>
-        <table border="1">
-</center>
+    <Body background="img-blog-siklus-pendapatan-rumah-sakit.jpg" width="2700" height="200" style="border-radius: 50%;">
+<hr />
+
+    <header style="text-align: center;">
+        <img src="1111.jfif" width="200" height="200" style="border-radius: 50%;"/>
+        <h1>RUMAH SAKIT WARAS SAYUNG</h1>
+    </header>
+    <hr />
+    <article style="text-align: center;">
+        <h2>Rumah Sakit Senang Hati</h2>
+    </article>
+
+    <div style="max-width: 600px; margin: 3em auto">
+        <table border="1" width="100%">
+            <thead>
+                <tr>
+                    <th>action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+            <ul>
+            <li> <a href = "Profil.php">Profil</a> </li>
+            <li> <a href = "pasien.php">Pasien</a> </li>
+            <li> <a href = "tambah.php">Tambah Pasien</a> </li>
+            <li> <a href = "Fasilitas.php">Fasilitas</a> </li>
+</ul>
+</tr>
+</td>
+            </tbody>
+        </table>
+    </div>
+
+    <hr>
+    <footer style="text-align: center;">
+        <p>Copyright &copy; nanda khoeru nissa.</p>
+    </footer>
+</body>
+</html>
 </body>
 </html>
